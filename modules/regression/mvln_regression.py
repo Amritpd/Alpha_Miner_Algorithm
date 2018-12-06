@@ -1,14 +1,4 @@
-'''
-AUTHOR : BAHRA Mehdi 
-Python inplementation of multivariate linear regression 
-this class represent a multivariate linear regression object with 
-the mean squared error cost function and a  hypothesis with a specific degree of plolynomial 
-the minimizer function can use vary optimization method such as gradient descent , normal equation for linear hypothesis
-and conjugate gradient descent , this module send a report that will be used by another module to monitor the execution.
 
-
-
-'''
 import sys 
 import numpy as np
 import learning.util.optimization.GradientDescent as gd 
