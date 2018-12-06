@@ -2,11 +2,6 @@
 
 Python implementation of  logistic classification using various optimization technique
 
-Gradient descent and conjugate gardient descent 
-
-
-Author : BAHRA Mehdi
-
 
 
 '''
