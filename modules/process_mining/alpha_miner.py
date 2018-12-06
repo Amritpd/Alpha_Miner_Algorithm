@@ -18,12 +18,6 @@ from nets import *
 #
 #################################################################
 
-__author__ = "Bahra Mehdi"
-__copyright__ = "Copyright 2017, The learning Project"
-__license__ = "GPL"
-__version__ = "0.0.1"
-__email__ = "bahra.mehdi1@gmail.com"
-__status__ = "Test"
 
 # python enum class that represent possible relation between activities in an event log
 #
