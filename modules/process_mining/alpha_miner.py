@@ -6,18 +6,6 @@ import snakes.plugins
 from sortedcontainers import SortedList, SortedSet, SortedDict
 snakes.plugins.load('gv', 'snakes.nets', 'nets')
 from nets import *
-################################################################
-#   		(c) Copyright 2017 all right reserved   
-#       Python Implementation of Alpha miner algorithm           
-#		This implementation is inspired by the book 
-#	"Process Mining Data science in action by WILL VAN DER AALST"
-#													
-#
-#
-#
-#
-#################################################################
-
 
 # python enum class that represent possible relation between activities in an event log
 #
